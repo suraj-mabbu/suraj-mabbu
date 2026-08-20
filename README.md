@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/surajmabbu05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajmabbu05" height="30" width="40" /></a>
-<a href="mailto:surajmabbu@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="surajmabbu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,7 +39,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-mabbu&show_icons=true&locale=en&theme=default&hide_border=true" alt="suraj-mabbu" width="48%"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-mabbu&theme=default&hide_border=true" alt="suraj-mabbu" width="48%"/>
 </p>
 
