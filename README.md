@@ -16,14 +16,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> </a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="kalilinux" width="40" height="40"/> </a>
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" height="40"/> </a>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kalilinux"/>
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="splunk"/>
+<img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
 </p>
 
 <h3 align="left">Certifications:</h3>
@@ -40,9 +40,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-mabbu&show_icons=true&locale=en&theme=default" alt="suraj-mabbu" width="48%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-mabbu&show_icons=true&locale=en&theme=default&hide_border=true" alt="suraj-mabbu" width="48%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-mabbu&theme=default&hide_border=true" alt="suraj-mabbu" width="48%"/>
 </p>
 
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-mabbu&theme=default" alt="suraj-mabbu" width="48%"/>
-</p>
+> Note: the two stats cards above are generated live by a free third-party service (github-readme-stats). If they show as broken images, just refresh the page after a minute — that service occasionally rate-limits requests.
