@@ -44,4 +44,3 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-mabbu&theme=default&hide_border=true" alt="suraj-mabbu" width="48%"/>
 </p>
 
-> Note: the two stats cards above are generated live by a free third-party service (github-readme-stats). If they show as broken images, just refresh the page after a minute — that service occasionally rate-limits requests.
